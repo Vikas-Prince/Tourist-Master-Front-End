@@ -1,0 +1,49 @@
+
+var ftGUID_4167859="50346DFFE9171C";
+var ftConfID_4167859="0";
+var ftParams_4167859="ftOBA=1&ft_agentEnv=0&ft_referrer=https%3A%2F%2F1f5e13921a8bd0323b81f99b968f5f80.safeframe.googlesyndication.com%2Fsafeframe%2F1-0-40%2Fhtml%2Fcontainer.html&us_privacy=${US_PRIVACY}&cachebuster=199650.5548687817&ft_dv=%5B%25ft_dv%25%5D";
+var ftKeyword_4167859="";
+var ftCustom_4167859="";
+var ftSection_4167859="";
+var ftSegment_4167859="w2b,aig6,aixg,afr5,aj6x,akkp,ajvn,akty";
+var ftSegmentList_4167859=[{s:'w2b'},{s:'aig6'},{s:'aixg'},{s:'afr5'},{s:'aj6x'},{s:'akkp'},{s:'ajvn'},{s:'akty'}];
+var ftRuleMatch_4167859="0";
+var ftTimestamp_4167859="1683768581";
+var ftGeoC2_4167859="in";
+var ftGeoState_4167859="ap";
+var ftGeoCity_4167859="atchampeta";
+var ftISP_4167859="bharat sanchar nigam limited";
+var ftSpeed_4167859="broadband";
+var ftConnType_4167859="wifi";
+var ftDMA_4167859="356009";
+var ftLong_4167859="82.23";
+var ftLat_4167859="17.03";
+var ftPostal_4167859="533005";
+var ftTimeZone_4167859="+530";
+var ftMobileCarrier_4167859="";
+var ftImp4167859 = {};
+ftImp4167859.privacy = "x";
+ftImp4167859.guidAge = "575";
+ftImp4167859.impID = "E6A97A31-CF2A-5E8B-4EAA-7B5D66B4CC09";
+ftImp4167859.duid = "FT:50346DFFE9171C";
+
+ftImp4167859.ft_tpplid = "";
+ftImp4167859.ft_c = {};
+ftImp4167859.gdpr = "";
+ftImp4167859.gdpr_consent = "";
+ftImp4167859.gdpr_pd = "";
+ftImp4167859.oob_consent = "";
+ftImp4167859.gdprStoredConsent = "";
+ftImp4167859.us_privacy = "!!US_PRIVACY!";
+
+ftImp4167859.jsAppend = "1";
+(function(){
+    var tag = document.getElementById('ft_servedby_4167859') || (function(s){
+    	return s[s.length-1];
+    }(document.getElementsByTagName('script'))),
+           js = document.createElement('script');
+    js.src =
+"https://cdn.flashtalking.com/xre/416/4167859/3956236/js/j-4167859-3956236.js";
+    js.id = "ftscript_m4167859";
+    tag.parentNode.insertBefore(js, tag);
+}());
